@@ -62,7 +62,7 @@ run: echo "Pipeline executado com sucesso!"
 Comando executado no terminal do pipeline.
 Ele apenas imprime uma mensagem indicando que o pipeline foi executado corretamente.
 
-5. Fluxo do Pipeline
+## 5. Fluxo do Pipeline
 
 O funcionamento do pipeline segue o seguinte fluxo:
 
@@ -77,7 +77,8 @@ Execução do job first-job
 Execução do comando echo
         ↓
 Exibição da mensagem no log do pipeline
-6. Resultado da Execução
+
+## 6. Resultado da Execução
 
 Quando o pipeline é executado, o GitHub cria automaticamente um ambiente virtual e executa o workflow configurado.
 
