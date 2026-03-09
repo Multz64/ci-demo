@@ -7,5 +7,4 @@ jobs:
   runs-on: ubuntu-latest
  
  steps:
-   -name: Print message
-    run: echo "Pipeline executado com sucesso!"
+   -name: Print message run: echo "Pipeline executado com sucesso!"
