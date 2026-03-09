@@ -6,6 +6,6 @@ jobs:
  first-job:
   runs-on: ubuntu-latest
   
-  steps:
+ steps:
    - name: Print message
    run: echo "Pipeline executado com sucesso!"
